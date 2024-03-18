@@ -78,7 +78,8 @@ TOP SOFTWARE COMPANIES WITH REVENUE TABLE
 ```
 
 ## OUTPUT:
-![alt text](<Screenshot 2024-03-12 114405.png>)
+![Screenshot 2024-03-18 131049](https://github.com/Mohanraj2006/simplewebserver/assets/152195759/3b70ffeb-9b7f-40be-aca4-e18d07e1bdde)
+
 
 ![alt text](<Screenshot (5).png>)
 
